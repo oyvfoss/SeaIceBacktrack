@@ -1,3 +1,5 @@
+
+*.p
 *-checkpoint.ipynb
 *.ipynb_checkpoints/
 validation/trajectory_vs_sumata_new/code/trajectory_saved.p
